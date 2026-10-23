@@ -1,4 +1,5 @@
-# 16784_BayesStatistikSport
+# An Analysis of:
+”A Bayesian test for the hot hand phenomenon”
 
 
 
