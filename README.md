@@ -2,7 +2,7 @@
 
 
 
-[Read the full paper here (PDF)](https://adrian-brenner-12422308.github.io/16784BayesStatistikSport/PaperFull.pdf)
+[Read the full paper here (PDF)](https://adrian-brenner-12422308.github.io/A-Bayesian-test-for-the-hot-hand-phenomenon2024/PaperFull.pdf)
 
 The full working paper can also be downloaded from in the PaperFull.pdf file.
 This Repository includes the Code files, Datasets and do-files for the LMU 16784 statistical working paper: Bayesianische Statistik trifft Sport 
