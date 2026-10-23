@@ -1,4 +1,4 @@
-# An Analysis of: ”A Bayesian test for the hot hand phenomenon”
+# An Analysis of: ”A Bayesian test for the hot hand phenomenon” (2024)
 
 
 
